@@ -1,0 +1,40 @@
+.container{
+    width: 600px;
+    height: 800px;
+    border-width: 2px;
+    border-style: solid;
+}
+.header{
+    /* width: 570px; */
+    height: 200px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 10px;
+}
+.nav1, .nav2{
+    height:180px;
+    width: 100px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 10px;
+    display: inline-block;
+}
+.nav1{
+    margin-right: 336px;
+}
+.item{
+    height: 300px;
+    width: 170px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 12px;
+    display: inline-block;
+}
+.footer{
+    width: 570px;
+    height: 200px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 10px;
+
+}
